@@ -1,5 +1,7 @@
 The following is a list of all variables supported in various ScriptedEvents places. All of the numerical variables can be used in the place of numbers in math equations (such as the `LIGHTSOFF` duration parameter).
 
+Variables can be paired with [conditions](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions) very well; however, they can also be used in standalone math equations.
+
 ## Variables
 ### Numerical variables
 #### Chance
