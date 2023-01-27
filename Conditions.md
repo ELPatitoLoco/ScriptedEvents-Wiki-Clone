@@ -1,4 +1,4 @@
-ScriptedEvents supports a wide range of condition operators, specifically in the [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF) and [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL) actions. These conditions allow for simple operations in order to yield or completely cancel a script if certain conditions are not met.
+ScriptedEvents supports a wide range of condition operators, specifically in the [IF](https://github.com/Thundermaker300/ScriptedEvents/wiki/IF), [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF), and [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL) actions. These conditions allow for simple operations in order to yield or completely cancel a script if certain conditions are not met.
 
 It is highly encouraged that these are used in combination with [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables)
 
@@ -32,4 +32,12 @@ Black out all the lights UNLESS there are exactly 15 players in the server.
 ```
 STOPIF PLAYERS = 15
 LIGHTSOFF 50
+```
+
+### Case 5
+Decontaminate LCZ after 500 seconds if there are more than 20 players in the server.
+```
+WAITSEC 500
+IF PLAYERS > 20
+DECONTAMINATE
 ```
