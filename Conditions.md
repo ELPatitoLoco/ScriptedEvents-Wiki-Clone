@@ -1,6 +1,6 @@
 ScriptedEvents supports a wide range of condition operators, specifically in the [IF](https://github.com/Thundermaker300/ScriptedEvents/wiki/IF), [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF), and [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL) actions. These conditions allow for simple operations in order to yield or completely cancel a script if certain conditions are not met.
 
-It is highly encouraged that these are used in combination with [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables)
+It is highly encouraged that these are used in combination with [variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables).
 
 ## Conditions/Operators
 * `>` - Compares two numerical sides and returns true if the left side is greater than the right side.
