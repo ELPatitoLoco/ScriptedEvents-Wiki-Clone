@@ -1,6 +1,28 @@
-ScriptedEvents supports a wide range of conditions & condition variables, specifically in the [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF) and [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL) actions. These conditions allow for simple operations in order to yield or completely cancel a script if certain conditions are not met.
+ScriptedEvents supports a wide range of condition operators, specifically in the [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF) and [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL) actions. These conditions allow for simple operations in order to yield or completely cancel a script if certain conditions are not met.
+
+It is highly encouraged that these are used in combination with [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables)
 
 ## Conditions/Operators
 * `>` - Compares two numerical sides and returns true if the left side is greater than the right side.
 * `<` - Compares two numerical sides and returns true if the left side is less than the right side.
 * `=` - Compares two numerical sides and returns true if they are equal in value.
+
+## Examples
+### Case 1
+Wait until there are more than five players alive.
+```
+WAITUNTIL PLAYERSALIVE > 5
+```
+
+### Case 2
+Wait every second for a 5% chance of something to happen. (Remember: `WAITUNTIL` blocks are recalculated every second).
+```
+WAITUNTIL CHANCE < 0.05
+```
+
+### Case 3
+Stop the script after anywhere from 500-700 seconds if there are more than 20 dead players.
+```
+WAITSEC 500 + (200 * CHANCE)
+STOPIF PLAYERSDEAD > 20
+```
