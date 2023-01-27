@@ -8,4 +8,4 @@ Yields the execution of actions after this action until the provided condition i
 
 ## Arguments
 ### Condition
-The condition to yield for.
+The condition to yield for. See [the conditions page](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions) for more information on conditions.
