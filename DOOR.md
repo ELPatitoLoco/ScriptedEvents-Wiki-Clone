@@ -11,7 +11,7 @@ Locks, unlocks, open, closes, or destroys doors. A duration can be provided to r
 The MODE argument indicates what action to take place. Valid options are: `OPEN`, `CLOSE`, `LOCK`, `UNLOCK`, AND `DESTROY`.
 
 ### DoorSelector
-The DOORSELECTOR argument takes the following options: `*` for every door, the name of a zone for zone specific doors (`LightContainment`, `HeavyContainment`, `Entrance`, `Surface`), or the exact door type (eg. `Hcz096`).
+The DOORSELECTOR argument takes the following options: `*` for every door, the name of a zone for zone specific doors (`LightContainment`, `HeavyContainment`, `Entrance`, `Surface`), the exact door type (eg. `Hcz096`), or the door name as shown in the RemoteAdmin panel (eg. "106_PRIMARY").
 
 ### Duration (optional)
 The duration to apply before reverting the action, in seconds.
