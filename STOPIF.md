@@ -8,4 +8,4 @@ Stops the script immediately if the provided condition is `true`. If the conditi
 
 ## Arguments
 ### Condition
-The condition to check.
+The condition to check. See [the conditions page](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions) for more information on conditions.
