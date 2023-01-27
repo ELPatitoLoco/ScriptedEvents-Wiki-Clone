@@ -26,3 +26,10 @@ Stop the script after anywhere from 500-700 seconds if there are more than 20 de
 WAITSEC 500 + (200 * CHANCE)
 STOPIF PLAYERSDEAD > 20
 ```
+
+### Case 4
+Black out all the lights UNLESS there are exactly 15 players in the server.
+```
+STOPIF PLAYERS = 15
+LIGHTSOFF 50
+```
