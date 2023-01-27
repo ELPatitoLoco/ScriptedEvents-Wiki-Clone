@@ -8,7 +8,7 @@ Adds a CASSIE message.
 
 ## Arguments
 ### Message
-The message to announce. Optionally, splitting the text by using a `|` will announce the first half of the text as a CASSIE message and use the second half as CASSIE's caption text.
+The message to announce. Optionally, splitting the text by using a `|` will announce the first half of the text as a CASSIE message and use the second half as CASSIE's caption text. If the second half has no text, captions will be disabled. See samples below.
 
 ## Samples
 ### Case 1
