@@ -1,0 +1,1 @@
+Welcome to the ScriptedEvents wiki! This wiki covers every action and every feature of ScriptedEvents, and how they can be used to make automated and semi-automated events for your server.
