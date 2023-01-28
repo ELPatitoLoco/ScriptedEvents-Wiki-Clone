@@ -22,8 +22,8 @@ Variables can be paired with [conditions](https://github.com/Thundermaker300/Scr
 * `MTF` - Total amount of alive MTF + Guards.
 * `RSC` - Total amount of alive Scientists.
 * `SCPS` - Total amount of alive SCPs.
-* `SH` - Total amount of alive Serpent's Hand (always 0 unless the plugin is installed).
-* `UIU` - Total amount of alive Unusual Incidents Units (always 0 unless the plugin is installed).
+* `SH` - Total amount of alive Serpent's Hand (always 0 if the plugin is not installed).
+* `UIU` - Total amount of alive Unusual Incidents Units (always 0 if the plugin is not installed).
 
 #### Player Count
 * `PLAYERS` - Total amount of players.
