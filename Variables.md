@@ -1,5 +1,7 @@
 The following is a list of all variables supported in various ScriptedEvents places. All of the numerical variables can be used in the place of numbers in math equations (such as the `LIGHTSOFF` duration parameter).
 
+Variables must be surrounded with curly braces (eg. `{CHANCE}`) in order to work as expected.
+
 Variables can be paired with [conditions](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions) very well; however, they can also be used in standalone math equations.
 
 ## Variables
@@ -35,7 +37,7 @@ Variables can be paired with [conditions](https://github.com/Thundermaker300/Scr
 * `CHAOSTICKETS` - NTF spawn tickets.
 
 ### Boolean variables
-Each variable below supports adding an `!` before it, which flips the check (Eg. `!CASSIESPEAKING` will return True if cassie is *not* speaking).
+Each variable below supports adding an `!` before it, which flips the check (Eg. `{!CASSIESPEAKING}` will return True if cassie is *not* speaking).
 * `CASSIESPEAKING` - True if CASSIE is currently speaking.
 * `DECONTAMINATED` - True if LCZ is decontaminated.
 * `ROUNDENDED` - True if the round has ended.
