@@ -8,4 +8,4 @@ Logs a console message.
 
 ## Arguments
 ### Message
-The message to log. Variables used for conditions are supported (although conditions themselves are not).
+The message to log. [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables) can be used here.
