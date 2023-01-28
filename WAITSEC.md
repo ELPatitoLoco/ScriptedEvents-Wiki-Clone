@@ -8,4 +8,4 @@ Yields the execution of actions after this action until the provided duration ha
 
 ## Arguments
 ### Duration
-The duration to apply before the script execution continues, in seconds.
+The duration to apply before the script execution continues. Math and [variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables) can be used here.
