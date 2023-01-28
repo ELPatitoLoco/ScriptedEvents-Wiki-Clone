@@ -11,26 +11,26 @@ It is highly encouraged that these are used in combination with [variables](http
 ### Case 1
 Wait until there are more than five players alive.
 ```
-WAITUNTIL PLAYERSALIVE > 5
+WAITUNTIL {PLAYERSALIVE} > 5
 ```
 
 ### Case 2
 Wait every second for a 5% chance of something to happen. (Remember: `WAITUNTIL` blocks are recalculated every second).
 ```
-WAITUNTIL CHANCE < 0.05
+WAITUNTIL {CHANCE} < 0.05
 ```
 
 ### Case 3
 Stop the script after anywhere from 500-700 seconds if there are more than 20 dead players.
 ```
-WAITSEC 500 + (200 * CHANCE)
-STOPIF PLAYERSDEAD > 20
+WAITSEC 500 + (200 * {CHANCE})
+STOPIF {PLAYERSDEAD} > 20
 ```
 
 ### Case 4
 Black out all the lights UNLESS there are exactly 15 players in the server.
 ```
-STOPIF PLAYERS = 15
+STOPIF {PLAYERS} = 15
 LIGHTSOFF 50
 ```
 
@@ -38,6 +38,6 @@ LIGHTSOFF 50
 Decontaminate LCZ after 500 seconds if there are more than 20 players in the server.
 ```
 WAITSEC 500
-IF PLAYERS > 20
+IF {PLAYERS} > 20
 DECONTAMINATE
 ```
