@@ -11,6 +11,7 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [COMMAND](https://github.com/Thundermaker300/ScriptedEvents/wiki/COMMAND)
 * [DECONTAMINATE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DECONTAMINATE)
 * [DOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/DOOR)
+* [EXECUTESCRIPT](https://github.com/Thundermaker300/ScriptedEvents/wiki/EXECUTESCRIPT)
 * [GIVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/GIVE)
 * [IF](https://github.com/Thundermaker300/ScriptedEvents/wiki/IF)
 * [LIGHTSOFF](https://github.com/Thundermaker300/ScriptedEvents/wiki/LIGHTSOFF)
