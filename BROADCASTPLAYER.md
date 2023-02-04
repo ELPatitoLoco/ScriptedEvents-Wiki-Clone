@@ -2,7 +2,7 @@ The `BROADCASTPLAYER` action grants broadcast control in a script.
 
 ## Usage
 ```
-BROADCAST <PLAYERS> <DURATION> <MESSAGE>
+BROADCASTPLAYER <PLAYERS> <DURATION> <MESSAGE>
 ```
 Adds a broadcast to the broadcast queue, only for the specified players.
 
