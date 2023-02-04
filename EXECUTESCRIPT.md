@@ -30,6 +30,6 @@ Let's say by default, a "door malfunction" event has a delay before it. However,
 STOPIF {CHANCE10} < 5
 WAITSEC 300 + (300 * {CHANCE})
 
-# Execute the script that actually does the malfunction.
+# Execute the script that actually does the malfunction. This script does not need a wait or a chance check, as it is already done above. This script can be executed by the "se execute" command, however, to completely bypass the delay and chance check.
 EXECUTESCRIPT DoorMalfunction
 ```
