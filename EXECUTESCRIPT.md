@@ -1,4 +1,4 @@
-The `EXECUTESCRIPT` action grants the ability to execute a script from another.
+The `EXECUTESCRIPT` action grants the ability to execute a script from another script.
 
 ## Usage
 ```
