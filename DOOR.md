@@ -6,6 +6,9 @@ DOOR <MODE> <DOORSELECTOR> [DURATION]
 ```
 Locks, unlocks, open, closes, or destroys doors. A duration can be provided to revert the action (minus destroying) after a certain amount of time, in seconds, has passed.
 
+## Note
+This command will always ignore SCP-079's doors.
+
 ## Arguments
 ### Mode
 The MODE argument indicates what action to take place. Valid options are: `OPEN`, `CLOSE`, `LOCK`, `UNLOCK`, AND `DESTROY`.
