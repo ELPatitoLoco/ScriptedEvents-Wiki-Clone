@@ -52,6 +52,7 @@ Variables can be paired with [conditions](https://github.com/Thundermaker300/Scr
 #### Tickets & Respawns
 * `NTFTICKETS` - NTF spawn tickets.
 * `CHAOSTICKETS` - NTF spawn tickets.
+* `RESPAWNEDPLAYERS` - Amount of players that were respawned. This variable will not function before the first respawn wave.
 * `TIMESINCELASTWAVE` - Amount of time since the last respawn wave, in seconds. **If a respawn wave has not occurred yet, this value will be very large.**
 * `TIMEUNTILNEXTWAVE` - Amount of time until the next respawn wave, in seconds.
 * `TOTALWAVES` - Total amount of respawn waves.
