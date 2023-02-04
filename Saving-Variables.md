@@ -1,4 +1,3 @@
-# Saving Variables
 Scripted Events allows you to save variables. As an example, you can select and save one random player, and then use that player in multiple commands.
 
 ## Example
