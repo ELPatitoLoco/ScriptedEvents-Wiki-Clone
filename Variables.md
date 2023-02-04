@@ -22,11 +22,11 @@ Variables can be paired with [conditions](https://github.com/Thundermaker300/Scr
 * `YEAR` - Current year. (1-9999).
 
 #### Role Count
+* Each individual RoleType can be used as a variable to count the amount of players alive. Eg, `{NTFCAPTAIN}` to count the amount of alive captains.
 * `CI` - Total amount of alive Chaos Insurgency.
-* `CLASSD` - Total amount of alive Class-D Personnel.
 * `GUARDS` - Total amount of alive facility guards.
-* `MTF` - Total amount of alive MTF + Guards.
-* `SCIENTISTS` - Total amount of alive Scientists.
+* `MTF` - Total amount of alive MTF, not including guards.
+* `MTFANDGUARDS` - Total amount of alive MTF and guards.
 * `SCPS` - Total amount of alive SCPs.
 * `SH` - Total amount of alive Serpent's Hand (always 0 if the plugin is not installed).
 * `UIU` - Total amount of alive Unusual Incidents Units (always 0 if the plugin is not installed).
@@ -77,11 +77,11 @@ Each variable below supports adding an `!` before it, which flips the check (Eg.
 These variables __CANNOT__ be used in normal commands, and can only be used in parameters that are expecting players (such as the first parameter of the `SETROLE` action).
 
 #### Roles
+* Each individual RoleType can be used as a variable to get each player in that role. Eg, `{NTFCAPTAIN}` to get each alive NTF captain.
 * `CI` - Chaos Insurgency.
-* `CLASSD` - Class-D Personnel.
 * `GUARDS` - Facility guards.
 * `MTF` - MTF, not including guards.
-* `SCIENTISTS` - Scientists.
+* `MTFANDGUARDS` - MTF and guards.
 * `SCPS` - SCPs.
 * `SH` - Serpent's Hand (always 0 if the plugin is not installed).
 * `UIU` - Unusual Incidents Units (always 0 if the plugin is not installed).
