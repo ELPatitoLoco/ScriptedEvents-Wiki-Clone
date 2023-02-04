@@ -7,7 +7,7 @@ BROADCAST <DURATION> <MESSAGE>
 Adds a broadcast to the broadcast queue.
 
 ## Arguments
-### DURATION
+### Duration
 The duration of the broadcast. Note that math _cannot_ be used for this property. A single number must be provided, or a range can be provided (eg. _5-10_) for a random number of seconds within the range.
 
 ### Message
