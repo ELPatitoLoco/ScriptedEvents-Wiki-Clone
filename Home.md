@@ -4,6 +4,7 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 ## Informational Pages
 * [Conditions](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions)
 * [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables)
+* __[ADVANCED]__ [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables)
 
 ## Actions
 * [BROADCAST](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCAST)
