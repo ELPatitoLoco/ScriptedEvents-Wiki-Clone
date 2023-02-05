@@ -6,7 +6,7 @@ SAVEPLAYERVARIABLE <VARIABLENAME> <CURRENTVARIABLE> [MAX]
 ```
 Saves a new player variable by using a current variable. The new variable will not be changed at all until it is re-defined or removed. An optional maximum can be provided to set the maximum amount of players, random.
 
-Note: It is encouraged to delete the variable after its usage is complete. 
+Note: It is encouraged to [delete the variable](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELPLAYERVARIABLE) after its usage is complete. 
 
 ## Arguments
 ### VariableName
