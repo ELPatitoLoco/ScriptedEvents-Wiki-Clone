@@ -31,4 +31,8 @@ INFECTADD ClassD Scp173 TRUE
 # The remainder are set to ChaosRepressor.
 SPAWNRULE NtfSergeant {PLAYERS}/2
 SPAWNRULE ChaosRepressor
+
+# Optional bonus: On death, convert to the opposite team
+INFECTADD NtfSergeant ChaosRepressor FALSE
+INFECTADD ChaosRepressor NtfSergeant FALSE
 ```
