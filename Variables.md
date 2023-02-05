@@ -92,5 +92,8 @@ These variables __CANNOT__ be used in normal commands, and can only be used in p
 * `EZ` - Every player in Entrance Zone.
 * `SURFACE` - Every player on the surface.
 
+#### Custom Variables
+Custom player variables can be used in any command that takes a player or list of players. For more information, see [this wiki page](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables).
+
 #### Miscellaneous
 * `RESPAWNEDPLAYERS` - The players that respawned in the most recent spawn wave. This variable will not function before the first respawn wave.
