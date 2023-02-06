@@ -2,6 +2,7 @@
 Welcome to the ScriptedEvents wiki! This wiki covers every action and every feature of ScriptedEvents, and how they can be used to make automated and semi-automated events for your server.
 
 ## Informational Pages
+* **[Information & Syntax](https://github.com/Thundermaker300/ScriptedEvents/wiki/Information-&-Syntax)**
 * [Conditions](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions)
 * [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables)
 * __[ADVANCED]__ [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables)
