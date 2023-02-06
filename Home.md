@@ -24,6 +24,7 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [SETROLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SETROLE)
 * [SILENTCASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SILENTCASSIE)
 * [SPAWNRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SPAWNRULE)
+* [START](https://github.com/Thundermaker300/ScriptedEvents/wiki/START)
 * [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF)
 * [WAITSEC](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITSEC)
 * [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL)
