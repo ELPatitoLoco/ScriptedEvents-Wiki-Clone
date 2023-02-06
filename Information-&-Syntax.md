@@ -1,3 +1,7 @@
+## General Notes
+* The name of the script is equivalent to its file name, without the `.txt` extension. All scripts must be a `.txt` file and must be placed in the `ScriptedEvents` folder, otherwise the plugin will not be able to find them.
+* For sanity purposes, all scripts will automatically stop their execution as soon as the round begins to restart. This cannot be disabled.
+
 ## Automated Scripts
 Scripts can be set to run automatically as soon as the round starts. This can be done by adding them to this list in the plugin's config.
 ```yml
