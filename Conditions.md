@@ -48,12 +48,18 @@ DECONTAMINATE
 ### Case 6
 Flicker the lights for 10 seconds if all the players are alive, or there are exactly 5 players on the surface.
 ```
-WAITSEC 1500
 IF {SPECTATOR} = 0 OR {SURFACE} = 5
 LIGHTSOFF 10
 ```
 
 ### Case 7
+Flicker the lights off for 10 seconds if there are exactly 8 players alive, exactly 5 players dead, exactly 3 SCPs, and at least 3 MTF.
+```
+IF {PLAYERSALIVE} = 8 AND {PLAYERSDEAD} = 5 AND {SCPS} = 3 AND {MTF} > 3
+LIGHTSOFF 10
+```
+
+### Case 8
 Activate the warhead after 1,500 seconds if there are more than 20 players in the server, AND all the players are dead.
 ```
 WAITSEC 1500
@@ -61,7 +67,7 @@ IF {PLAYERS} > 20 AND {PLAYERS} = {SPECTATOR}
 DECONTAMINATE
 ```
 
-### Case 8
+### Case 9
 Decontaminate LCZ after 500 seconds if there are more than 20 players in the server, OR if all the Class-D & Scientists are dead.
 ```
 WAITSEC 500
@@ -69,7 +75,7 @@ IF {PLAYERS} > 20 OR ({CLASSD} = 0 AND {SCIENTIST} = 0)
 DECONTAMINATE
 ```
 
-### Case 9
+### Case 10
 Activate the alpha warhead after 500 seconds if there are more than 20 players and No SCPs, or if there are only MTF left alive.
 ```
 WAITSEC 500
