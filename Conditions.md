@@ -7,6 +7,9 @@ It is highly encouraged that these are used in combination with [variables](http
 * `<` - Compares two numerical sides and returns true if the left side is less than the right side.
 * `=` - Compares two numerical sides and returns true if they are equal in value.
 
+## AND/OR
+The keywords `AND` and `OR` can be used to join multiple conditions together into one single action. ANDs are always calculated __after__ ORs (see cases 6 and 7 for examples).
+
 ## Examples
 ### Case 1
 Wait until there are more than five players alive.
@@ -40,4 +43,20 @@ Decontaminate LCZ after 500 seconds if there are more than 20 players in the ser
 WAITSEC 500
 IF {PLAYERS} > 20
 DECONTAMINATE
+```
+
+### Case 6
+Decontaminate LCZ after 500 seconds if there are more than 20 players in the server, OR if all the Class-D are dead.
+```
+WAITSEC 500
+IF {PLAYERS} > 20 OR {CLASSD} = 0
+DECONTAMINATE
+```
+
+### Case 7
+Activate the alpha warhead after 500 seconds if there are more than 20 players and No SCPs, or if there are only MTF left alive.
+```
+WAITSEC 500
+IF ({PLAYERSALIVE} > 20 AND {SCPS} = 0) OR ({MTF} = {PLAYERSALIVE})
+WARHEAD START
 ```
