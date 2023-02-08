@@ -21,6 +21,13 @@ Variables can be paired with [conditions](https://github.com/Thundermaker300/Scr
 * `MONTH` - Current month. (1-12).
 * `YEAR` - Current year. (1-9999).
 
+#### Zone
+* `LCZ` - Every player in Light Containment Zone.
+* `HCZ` - Every player in Heavy Containment Zone.
+* `EZ` - Every player in Entrance Zone.
+* `SURFACE` - Every player on the surface.
+* `POCKET` - Every player in the pocket dimension.
+
 #### Role Count
 * Each individual RoleType can be used as a variable to count the amount of players alive. Eg, `{NTFCAPTAIN}` to count the amount of alive captains.
 * `CI` - Total amount of alive Chaos Insurgency.
@@ -91,6 +98,7 @@ These variables __CANNOT__ be used in normal commands, and can only be used in p
 * `HCZ` - Every player in Heavy Containment Zone.
 * `EZ` - Every player in Entrance Zone.
 * `SURFACE` - Every player on the surface.
+* `POCKET` - Every player in the pocket dimension.
 
 #### Custom Variables
 Custom player variables can be used in any command that takes a player or list of players. For more information, see [this wiki page](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables).
