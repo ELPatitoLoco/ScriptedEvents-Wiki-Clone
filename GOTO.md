@@ -1,7 +1,5 @@
 ## Will be available in ScriptedEvents Version 1.1
-
 ***
-
 The `GOTO` action grants logic control in a script.
 
 ## Usage
