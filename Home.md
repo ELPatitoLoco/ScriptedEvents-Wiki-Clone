@@ -16,6 +16,8 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [DOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/DOOR)
 * [EXECUTESCRIPT](https://github.com/Thundermaker300/ScriptedEvents/wiki/EXECUTESCRIPT)
 * [GIVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/GIVE)
+* [GOTO](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTO)
+* [HELP](https://github.com/Thundermaker300/ScriptedEvents/wiki/HELP)
 * [IF](https://github.com/Thundermaker300/ScriptedEvents/wiki/IF)
 * [INFECTRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/INFECTRULE)
 * [LIGHTSOFF](https://github.com/Thundermaker300/ScriptedEvents/wiki/LIGHTSOFF)
