@@ -46,10 +46,10 @@ DECONTAMINATE
 ```
 
 ### Case 6
-Decontaminate LCZ after 500 seconds if there are more than 20 players in the server, OR if all the Class-D are dead.
+Decontaminate LCZ after 500 seconds if there are more than 20 players in the server, OR if all the Class-D & Scientists are dead.
 ```
 WAITSEC 500
-IF {PLAYERS} > 20 OR {CLASSD} = 0
+IF {PLAYERS} > 20 OR ({CLASSD} = 0 AND {SCIENTIST} = 0)
 DECONTAMINATE
 ```
 
