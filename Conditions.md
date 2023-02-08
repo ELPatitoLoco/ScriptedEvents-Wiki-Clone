@@ -8,7 +8,7 @@ It is highly encouraged that these are used in combination with [variables](http
 * `=` - Compares two numerical sides and returns true if they are equal in value.
 
 ## AND/OR
-The keywords `AND` and `OR` can be used to join multiple conditions together into one single action (cases 6-9). By default, ANDs have higher priorities over ORs. However, parenthesis can be used to determine the order at which the operators are read (see cases 8 and 9 for examples of this).
+The keywords `AND` and `OR` can be used to join multiple conditions together into one single action (cases 6 - 10). By default, ANDs have higher priorities over ORs. However, parenthesis can be used to determine the order at which the operators are read (see cases 9 and 10 for examples of this).
 
 ## Examples
 ### Case 1
