@@ -23,7 +23,6 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [INFECTRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/INFECTRULE)
 * [LIGHTSOFF](https://github.com/Thundermaker300/ScriptedEvents/wiki/LIGHTSOFF)
 * [LOG](https://github.com/Thundermaker300/ScriptedEvents/wiki/LOG)
-* **[V1.1]** [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
 * [ROUNDLOCK](https://github.com/Thundermaker300/ScriptedEvents/wiki/ROUNDLOCK)
 * [SAVEPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEPLAYERVARIABLE)
 * [SETROLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SETROLE)
@@ -35,3 +34,6 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [WAITSEC](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITSEC)
 * [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL)
 * [WARHEAD](https://github.com/Thundermaker300/ScriptedEvents/wiki/WARHEAD)
+
+## Internal Actions
+* **[V1.1]** [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
