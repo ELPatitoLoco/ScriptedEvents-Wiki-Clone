@@ -33,6 +33,7 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [START](https://github.com/Thundermaker300/ScriptedEvents/wiki/START)
 * **[V1.1]** [STOP](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOP)
 * [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF)
+* **[V1.1]** [TESLA](https://github.com/Thundermaker300/ScriptedEvents/wiki/TESLA)
 * [WAITSEC](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITSEC)
 * [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL)
 * [WARHEAD](https://github.com/Thundermaker300/ScriptedEvents/wiki/WARHEAD)
