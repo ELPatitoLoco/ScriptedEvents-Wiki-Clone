@@ -29,6 +29,7 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [SAVEPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEPLAYERVARIABLE)
 * [SETROLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SETROLE)
 * [SILENTCASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SILENTCASSIE)
+* **[V1.1]** [SIZE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SIZE)
 * [SPAWNRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SPAWNRULE)
 * [START](https://github.com/Thundermaker300/ScriptedEvents/wiki/START)
 * **[V1.1]** [STOP](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOP)
