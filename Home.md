@@ -9,6 +9,7 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 
 ## Event Actions
 * [BROADCAST](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCAST)
+* [BROADCASTPLAYER](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCASTPLAYER)
 * [CASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/CASSIE)
 * [COMMAND](https://github.com/Thundermaker300/ScriptedEvents/wiki/COMMAND)
 * [DECONTAMINATE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DECONTAMINATE)
