@@ -1,4 +1,4 @@
-**Will be available in ScriptedEvents Version 1.1**
+**New Feature in Scripted Events V2.0.0**
 ***
 The `HELP` action allows for reading plugin documentation in a script.
 
