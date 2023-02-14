@@ -4,6 +4,7 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 ## Informational Pages
 * **[Information & Syntax](https://github.com/Thundermaker300/ScriptedEvents/wiki/Information-&-Syntax)**
 * [Conditions](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions)
+* [Flags](https://github.com/Thundermaker300/ScriptedEvents/wiki/Flags)
 * [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables)
 * __[ADVANCED]__ [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables)
 
