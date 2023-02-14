@@ -1,6 +1,5 @@
-**Will be available in ScriptedEvents Version 1.1**
+**New Feature in Scripted Events V2.0.0**
 ***
-
 The `DELVARIABLE` action grants variable control in a script. See [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables) for more information.
 
 ## Usage
