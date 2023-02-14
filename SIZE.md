@@ -1,4 +1,4 @@
-**Will be available in ScriptedEvents Version 1.1**
+**New Feature in Scripted Events V2.0.0**
 ***
 The `SIZE` action grants player control in a script.
 
