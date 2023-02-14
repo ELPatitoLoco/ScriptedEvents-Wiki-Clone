@@ -21,26 +21,26 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [ROUNDLOCK](https://github.com/Thundermaker300/ScriptedEvents/wiki/ROUNDLOCK)
 * [SETROLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SETROLE)
 * [SILENTCASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SILENTCASSIE)
-* **[V1.1]** [SIZE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SIZE)
+* **[NEW]** [SIZE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SIZE)
 * [START](https://github.com/Thundermaker300/ScriptedEvents/wiki/START)
-* **[V1.1]** [TESLA](https://github.com/Thundermaker300/ScriptedEvents/wiki/TESLA)
+* **[NEW]** [TESLA](https://github.com/Thundermaker300/ScriptedEvents/wiki/TESLA)
 * [WARHEAD](https://github.com/Thundermaker300/ScriptedEvents/wiki/WARHEAD)
 
 ## Logic Actions
 * [IF](https://github.com/Thundermaker300/ScriptedEvents/wiki/IF)
-* **[V1.1]** [STOP](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOP)
+* **[NEW]** [STOP](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOP)
 * [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF)
-* **[V1.1]** [GOTO](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTO)
-* **[V1.1]** [GOTOIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTOIF)
+* **[NEW]** [GOTO](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTO)
+* **[NEW]** [GOTOIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTOIF)
 
 ## Round-Rules Actions
 * [INFECTRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/INFECTRULE)
 * [SPAWNRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SPAWNRULE)
 
 ## Variable Actions
-* **[V1.1]** [DELVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELVARIABLE)
+* **[NEW]** [DELVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELVARIABLE)
 * [DELPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELPLAYERVARIABLE)
-* **[V1.1]** [SAVEVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEVARIABLE)
+* **[NEW]** [SAVEVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEVARIABLE)
 * [SAVEPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEPLAYERVARIABLE)
 
 ## Yield Actions
@@ -48,8 +48,8 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL)
 
 ## Miscellaneous Actions
-* **[V1.1]** [HELP](https://github.com/Thundermaker300/ScriptedEvents/wiki/HELP)
+* **[NEW]** [HELP](https://github.com/Thundermaker300/ScriptedEvents/wiki/HELP)
 * [LOG](https://github.com/Thundermaker300/ScriptedEvents/wiki/LOG)
 
 ## Internal Actions
-* **[V1.1]** [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
+* **[NEW]** [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
