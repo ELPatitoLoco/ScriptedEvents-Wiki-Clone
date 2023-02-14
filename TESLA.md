@@ -1,4 +1,4 @@
-**Will be available in ScriptedEvents Version 1.1**
+**New Feature in Scripted Events V2.0.0**
 ***
 The `TESLA` action grants control over the tesla gates.
 
