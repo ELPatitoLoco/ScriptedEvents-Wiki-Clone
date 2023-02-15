@@ -20,6 +20,7 @@ Variables can be paired with [conditions](https://github.com/Thundermaker300/Scr
 * `DAYOFYEAR` - Current day of the year (1-366).
 * `MONTH` - Current month. (1-12).
 * `YEAR` - Current year. (1-9999).
+* `TICK` - Amount of seconds that have passed since Jan 1st, 1970 (epoch).
 
 #### Zone
 * `LCZ` - Every player in Light Containment Zone.
@@ -105,3 +106,4 @@ Custom player variables can be used in any command that takes a player or list o
 
 #### Miscellaneous
 * `RESPAWNEDPLAYERS` - The players that respawned in the most recent spawn wave. This variable will not function before the first respawn wave.
+* `SERVERSTAFF` - The players on the server with RemoteAdmin access.
