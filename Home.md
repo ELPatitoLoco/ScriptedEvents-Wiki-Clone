@@ -53,3 +53,6 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 
 ## Internal Actions
 * **[NEW]** [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
+
+## Todo:
+* Add pages for V2.1 actions: Kill, TpRoom, TpX
