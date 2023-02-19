@@ -31,9 +31,9 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [ROUNDLOCK](https://github.com/Thundermaker300/ScriptedEvents/wiki/ROUNDLOCK)
 * [SETROLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SETROLE)
 * [SILENTCASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SILENTCASSIE)
-* **[NEW]** [SIZE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SIZE)
+* [SIZE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SIZE)
 * [START](https://github.com/Thundermaker300/ScriptedEvents/wiki/START)
-* **[NEW]** [TESLA](https://github.com/Thundermaker300/ScriptedEvents/wiki/TESLA)
+* [TESLA](https://github.com/Thundermaker300/ScriptedEvents/wiki/TESLA)
 * **[NEXT UPDATE]** [TICKET](https://github.com/Thundermaker300/ScriptedEvents/wiki/TICKET)
 * **[NEXT UPDATE]** [TPROOM](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPROOM)
 * **[NEXT UPDATE]** [TPX](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPX)
@@ -41,19 +41,19 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 
 ## Logic Actions
 * [IF](https://github.com/Thundermaker300/ScriptedEvents/wiki/IF)
-* **[NEW]** [STOP](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOP)
+* [STOP](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOP)
 * [STOPIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/STOPIF)
-* **[NEW]** [GOTO](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTO)
-* **[NEW]** [GOTOIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTOIF)
+* [GOTO](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTO)
+* [GOTOIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTOIF)
 
 ## Round-Rules Actions
 * [INFECTRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/INFECTRULE)
 * [SPAWNRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SPAWNRULE)
 
 ## Variable Actions
-* **[NEW]** [DELVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELVARIABLE)
+* [DELVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELVARIABLE)
 * [DELPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELPLAYERVARIABLE)
-* **[NEW]** [SAVEVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEVARIABLE)
+* [SAVEVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEVARIABLE)
 * [SAVEPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEPLAYERVARIABLE)
 
 ## Yield Actions
@@ -61,8 +61,8 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL)
 
 ## Miscellaneous Actions
-* **[NEW]** [HELP](https://github.com/Thundermaker300/ScriptedEvents/wiki/HELP)
+* [HELP](https://github.com/Thundermaker300/ScriptedEvents/wiki/HELP)
 * [LOG](https://github.com/Thundermaker300/ScriptedEvents/wiki/LOG)
 
 ## Internal Actions
-* **[NEW]** [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
+* [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
