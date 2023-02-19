@@ -1,4 +1,7 @@
-The `DECONTAMINATE` action grants respawn control in a script.
+**Not available yet.**
+***
+
+The `TICKET` action grants respawn control in a script.
 
 ## Usage
 ```
