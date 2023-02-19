@@ -53,6 +53,10 @@ Variables can be paired with [conditions](https://github.com/Thundermaker300/Scr
 * `CLASSDESCAPES` - Total amount of Class-D escapes
 * `SCIENTISTESCAPES` - Total amount of Scientist escapes.
 
+#### Server Info
+* `PORT` - The port of the server.
+* `MAXPLAYERS` - The maximum amount of players on the server.
+
 #### Round Time
 * `ROUNDMINUTES` - Length of round in minutes.
 * `ROUNDSECONDS` - Length of round in seconds.
@@ -76,10 +80,12 @@ Each variable below supports adding an `!` before it, which flips the check (Eg.
 * `WARHEADCOUNTING` - True if the warhead is currently counting down.
 * `WARHEADDETONATED` - True if the warhead has detonated.
 * `WAVERESPAWNING` - True if a wave just respawned recently (within 5 seconds).
+* `HEAVILYMODDED` - True if the server is heavily modded.
 
 ### String variable
 * `LASTRESPAWNTEAM` - The most-recently spawned team. This variable will not function before the first respawn wave.
 * `NEXTWAVE` - The next wave that is going to spawn. Options: `None` (not determined), `ChaosInsurgency`, `NineTailedFox`.
+* `IP`- The IP of the server.
 
 ### Player variables
 These variables __CANNOT__ be used in normal commands, and can only be used in parameters that are expecting players (such as the first parameter of the `SETROLE` action).
