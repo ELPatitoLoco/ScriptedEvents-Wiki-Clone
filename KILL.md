@@ -1,4 +1,4 @@
-The `COUNTDOWN` action grants player control in a script.
+The `KILL` action grants player control in a script.
 
 ## Usage
 ```
