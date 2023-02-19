@@ -5,7 +5,7 @@ The `DISABLE` action grants round control in a script.
 
 ## Usage
 ```
-DISABLE [KEY]
+DISABLE <KEY>
 ```
 Disables a certain in-game feature for the duration of the round.
 
