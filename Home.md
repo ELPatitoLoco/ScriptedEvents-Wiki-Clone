@@ -25,6 +25,7 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 * **[NEW]** [SIZE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SIZE)
 * [START](https://github.com/Thundermaker300/ScriptedEvents/wiki/START)
 * **[NEW]** [TESLA](https://github.com/Thundermaker300/ScriptedEvents/wiki/TESLA)
+* **[NEXT UPDATE]** [TICKET](https://github.com/Thundermaker300/ScriptedEvents/wiki/TICKET)
 * [WARHEAD](https://github.com/Thundermaker300/ScriptedEvents/wiki/WARHEAD)
 
 ## Logic Actions
