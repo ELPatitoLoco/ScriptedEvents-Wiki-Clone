@@ -20,6 +20,7 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [CASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/CASSIE)
 * [COMMAND](https://github.com/Thundermaker300/ScriptedEvents/wiki/COMMAND)
 * **[NEXT UPDATE]** [COUNTDOWN](https://github.com/Thundermaker300/ScriptedEvents/wiki/COUNTDOWN)
+* **[NEXT UPDATE]** [DAMAGE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DAMAGE)
 * [DECONTAMINATE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DECONTAMINATE)
 * **[NEXT UPDATE]** [DISABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DISABLE)
 * [DOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/DOOR)
