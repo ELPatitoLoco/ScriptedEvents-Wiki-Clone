@@ -19,6 +19,7 @@ The Key argument determines what in-game feature is disabled.
 * `ITEMPICKUP`: Disables picking up any items.
 * `LOCKERS`: Disables opening/closing lockers/medkits.
 * `MICROPIKUP`: Disables picking up any Micro-HID.
+* `NTFANNOUNCEMENT`: Disables the CASSIE NTF spawning announcement.
 * `PEDESTALS`: Disables opening/closing SCP pedestals.
 * `SHOOTING`: Disables damage/bullets from shooting.
 * `TESLA`: Disables tesla gates.
