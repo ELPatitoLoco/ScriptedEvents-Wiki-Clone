@@ -1,6 +1,10 @@
 # ScriptedEvents Wiki
 Welcome to the ScriptedEvents wiki! This wiki covers every action and every feature of ScriptedEvents, and how they can be used to make automated and semi-automated events for your server.
 
+ScriptedEvents has two main uses:
+* Automation - Enables your server to have unique, per-round events, such as custom blackouts, custom automatic warhead, etc. You can make what you can think of!
+* Semi-automated events - Enables your server to have unique admin events, such as a "hide and seek" game where you can define the rules!
+
 It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if your script is executed as an admin event. This enables compatibility with CedMod's panel (Exiled version), as well as preventing the script from running automatically. See [this page](https://github.com/Thundermaker300/ScriptedEvents/wiki/Flags) for more information
 
 ## Informational Pages
@@ -59,4 +63,4 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * **[NEW]** [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
 
 ## Todo:
-* Add pages for V2.1 actions: Kill, TpRoom, TpX
+* Add pages for V2.1 actions: Countdown, Kill, TpRoom, TpX
