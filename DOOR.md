@@ -14,7 +14,7 @@ Locks, unlocks, open, closes, or destroys doors. A duration can be provided to r
 The MODE argument indicates what action to take place. Valid options are: `OPEN`, `CLOSE`, `LOCK`, `UNLOCK`, AND `DESTROY`.
 
 ### DoorSelector
-The DOORSELECTOR argument takes the following options: `*` for every door, the name of a zone for zone specific doors (`LightContainment`, `HeavyContainment`, `Entrance`, `Surface`), the exact door type (eg. `Hcz096`), or the door name as shown in the RemoteAdmin panel (eg. "106_PRIMARY"). A full list of door types can be found [here](https://exiled-team.github.io/EXILED/api/Exiled.API.Enums.DoorType.html)
+The DOORSELECTOR argument takes the following options: `*` for every door, the name of a zone for zone specific doors (`LightContainment`, `HeavyContainment`, `Entrance`, `Surface`), the exact door type (eg. `Hcz096`), or the door name as shown in the RemoteAdmin panel (eg. "106_PRIMARY"). A full list of door types can be found [here](https://exiled-team.github.io/EXILED/api/Exiled.API.Enums.DoorType.html).
 
 ### Duration (optional)
 The duration to apply before reverting the action. Math and [variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables) can be used here.
