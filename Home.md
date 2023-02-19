@@ -19,11 +19,13 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [BROADCASTPLAYER](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCASTPLAYER)
 * [CASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/CASSIE)
 * [COMMAND](https://github.com/Thundermaker300/ScriptedEvents/wiki/COMMAND)
+* **[NEXT UPDATE]** [COUNTDOWN](https://github.com/Thundermaker300/ScriptedEvents/wiki/COUNTDOWN)
 * [DECONTAMINATE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DECONTAMINATE)
 * **[NEXT UPDATE]** [DISABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DISABLE)
 * [DOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/DOOR)
 * [EXECUTESCRIPT](https://github.com/Thundermaker300/ScriptedEvents/wiki/EXECUTESCRIPT)
 * [GIVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/GIVE)
+* **[NEXT UPDATE]** [KILL](https://github.com/Thundermaker300/ScriptedEvents/wiki/KILL)
 * [LIGHTSOFF](https://github.com/Thundermaker300/ScriptedEvents/wiki/LIGHTSOFF)
 * [ROUNDLOCK](https://github.com/Thundermaker300/ScriptedEvents/wiki/ROUNDLOCK)
 * [SETROLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SETROLE)
@@ -32,6 +34,8 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [START](https://github.com/Thundermaker300/ScriptedEvents/wiki/START)
 * **[NEW]** [TESLA](https://github.com/Thundermaker300/ScriptedEvents/wiki/TESLA)
 * **[NEXT UPDATE]** [TICKET](https://github.com/Thundermaker300/ScriptedEvents/wiki/TICKET)
+* **[NEXT UPDATE]** [TPROOM](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPROOM)
+* **[NEXT UPDATE]** [TPX](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPX)
 * [WARHEAD](https://github.com/Thundermaker300/ScriptedEvents/wiki/WARHEAD)
 
 ## Logic Actions
@@ -61,6 +65,3 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 
 ## Internal Actions
 * **[NEW]** [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
-
-## Todo:
-* Add pages for V2.1 actions: Countdown, Kill, TpRoom, TpX
