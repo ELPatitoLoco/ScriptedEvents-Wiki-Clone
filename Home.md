@@ -1,6 +1,8 @@
 # ScriptedEvents Wiki
 Welcome to the ScriptedEvents wiki! This wiki covers every action and every feature of ScriptedEvents, and how they can be used to make automated and semi-automated events for your server.
 
+It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if your script is executed as an admin event. This enables compatibility with CedMod's panel (Exiled version), as well as preventing the script from running automatically. See [this page](https://github.com/Thundermaker300/ScriptedEvents/wiki/Flags) for more information
+
 ## Informational Pages
 * **[Information & Syntax](https://github.com/Thundermaker300/ScriptedEvents/wiki/Information-&-Syntax)**
 * [Conditions](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions)
