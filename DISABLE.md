@@ -13,6 +13,7 @@ Disables a certain in-game feature for the duration of the round.
 ### Key
 The Key argument determines what in-game feature is disabled.
 * `DYING`: Disables dying.
+* `ESCAPING`: Disables escaping.
 * `ELEVATORS`: Disables all elevators.
 * `GENERATORS`: Disables starting, stopping, and opening/unlocking generators.
 * `HURTING`: Disables taking any damage.
