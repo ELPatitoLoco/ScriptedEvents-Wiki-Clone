@@ -27,3 +27,4 @@ The Key argument determines what in-game feature is disabled.
 * `SHOOTING`: Disables damage/bullets from shooting.
 * `TESLAS`: Disables tesla gates.
 * `WARHEAD`: Disables the warhead from being activated.
+* `WORKSTATIONS`: Disables the workstations from being used.
