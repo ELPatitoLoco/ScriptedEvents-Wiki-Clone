@@ -8,7 +8,7 @@ The `!-- ADMINEVENT` flag prevents the script from running automatically, requir
 The `!-- DISABLE` flag disables the script entirely. Scripts with this flag can be read via the "script read" command, but they cannot be executed by any command or by configs.
 
 ## Debug
-The `!-- DEBUG` flag enables debug logs for the script it is defined in. 
+The `!-- DEBUG` flag enables debug logs for the script it is defined in. Note: In order for this flag to do anything, the plugin's "debug" config (in your {port}-config.yml file) must be set to `true`!
 
 ## Suppress Warnings
 The `!-- SUPPRESSWARNINGS` flag disables all non-fatal warnings from command execution.
