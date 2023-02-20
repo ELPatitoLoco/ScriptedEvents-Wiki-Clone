@@ -7,5 +7,8 @@ The `!-- ADMINEVENT` flag prevents the script from running automatically, requir
 ## Disable
 The `!-- DISABLE` flag disables the script entirely. Scripts with this flag can be read via the "script read" command, but they cannot be executed by any command or by configs.
 
+## Debug
+The `!-- DEBUG` flag enables debug logs for the script it is defined in. 
+
 ## Suppress Warnings
 The `!-- SUPPRESSWARNINGS` flag disables all non-fatal warnings from command execution.
