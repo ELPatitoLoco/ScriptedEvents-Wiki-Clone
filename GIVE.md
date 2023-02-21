@@ -14,4 +14,4 @@ The players to give the item to. [Player variables](https://github.com/Thunderma
 The item type to give. Valid ItemTypes can be found in the Exiled resources channel.
 
 ### Amount
-The maximum amount of players to grant the item to. Selected randomly. Math and [variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables) can be used here.
+The amount of items to give per player. Selected randomly. Math and [variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables) can be used here.
