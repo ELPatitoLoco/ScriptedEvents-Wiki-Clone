@@ -12,6 +12,7 @@ Disables a certain in-game feature for the duration of the round.
 ## Arguments
 ### Key
 The Key argument determines what in-game feature is disabled.
+* `DROPPING`: Disables dropping items.
 * `DYING`: Disables dying.
 * `ESCAPING`: Disables escaping.
 * `ELEVATORS`: Disables all elevators.
