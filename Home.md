@@ -18,6 +18,7 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [BROADCAST](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCAST)
 * [BROADCASTPLAYER](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCASTPLAYER)
 * [CASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/CASSIE)
+* **[NEXT UPDATE]** [CLEARCASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/CLEARCASSIE)
 * [COMMAND](https://github.com/Thundermaker300/ScriptedEvents/wiki/COMMAND)
 * **[NEXT UPDATE]** [COUNTDOWN](https://github.com/Thundermaker300/ScriptedEvents/wiki/COUNTDOWN)
 * **[NEXT UPDATE]** [DAMAGE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DAMAGE)
