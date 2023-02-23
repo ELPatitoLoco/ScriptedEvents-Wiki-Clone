@@ -84,6 +84,7 @@ Each variable below supports adding an `!` before it, which flips the check (Eg.
 
 ### String variable
 * `LASTRESPAWNTEAM` - The most-recently spawned team. This variable will not function before the first respawn wave.
+* `LASTRESPAWNUNIT` - The unit name of the most-recently spawned team. This variable will not function before the first respawn wave.
 * `NEXTWAVE` - The next wave that is going to spawn. Options: `None` (not determined), `ChaosInsurgency`, `NineTailedFox`.
 * `IP`- The IP of the server.
 
