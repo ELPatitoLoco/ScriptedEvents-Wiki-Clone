@@ -19,7 +19,7 @@ The Key argument determines what in-game feature is disabled.
 * `GENERATORS`: Disables starting, stopping, and opening/unlocking generators.
 * `HURTING`: Disables taking any damage.
 * `ITEMPICKUPS`: Disables picking up any items.
-* `LOCKERS`: Disables opening/closing lockers/medkits.
+* `LOCKERS`: Disables opening/closing lockers/medkit stations.
 * `MICROPIKUPS`: Disables picking up any Micro-HID.
 * `NTFANNOUNCEMENT`: Disables the CASSIE NTF spawning announcement.
 * `PEDESTALS`: Disables opening/closing SCP pedestals.
