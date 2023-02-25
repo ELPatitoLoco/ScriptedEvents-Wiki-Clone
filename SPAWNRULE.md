@@ -21,7 +21,7 @@ SPAWNRULE Scp173 1
 SPAWNRULE ClassD
 
 # Set up infection - When a class-d dies, turn them into a peanut and move them to their death location.
-INFECTADD ClassD Scp173 TRUE
+INFECTRULE ClassD Scp173 TRUE
 ```
 
 ### Case 2: MTF vs CI
@@ -29,10 +29,11 @@ INFECTADD ClassD Scp173 TRUE
 # Spawn half of players as MTF and half as CI
 # This works by diving the amount of players by half and setting the first half to NtfSergeant.
 # The remainder are set to ChaosRepressor.
+# Note: There should be a delay between the server finishing the restart and running this script. Otherwise there's going to be A LOT of Chaos and very little NTF.
 SPAWNRULE NtfSergeant {PLAYERS}/2
 SPAWNRULE ChaosRepressor
 
 # Optional bonus: On death, convert to the opposite team
-INFECTADD NtfSergeant ChaosRepressor FALSE
-INFECTADD ChaosRepressor NtfSergeant FALSE
+INFECTRULE NtfSergeant ChaosRepressor FALSE
+INFECTRULE ChaosRepressor NtfSergeant FALSE
 ```
