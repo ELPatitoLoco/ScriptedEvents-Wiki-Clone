@@ -23,7 +23,6 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * **[NEXT UPDATE]** [COUNTDOWN](https://github.com/Thundermaker300/ScriptedEvents/wiki/COUNTDOWN)
 * **[NEXT UPDATE]** [DAMAGE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DAMAGE)
 * [DECONTAMINATE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DECONTAMINATE)
-* **[NEXT UPDATE]** [DISABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DISABLE)
 * [DOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/DOOR)
 * [EXECUTESCRIPT](https://github.com/Thundermaker300/ScriptedEvents/wiki/EXECUTESCRIPT)
 * [GIVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/GIVE)
@@ -49,6 +48,8 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [GOTOIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTOIF)
 
 ## Round-Rules Actions
+* **[NEXT UPDATE]** [DISABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DISABLE)
+* **[NEXT UPDATE]** [ENABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/ENABLE)
 * [INFECTRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/INFECTRULE)
 * [SPAWNRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SPAWNRULE)
 
