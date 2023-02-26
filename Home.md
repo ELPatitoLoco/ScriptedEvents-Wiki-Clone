@@ -28,6 +28,7 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [EXECUTESCRIPT](https://github.com/Thundermaker300/ScriptedEvents/wiki/EXECUTESCRIPT)
 * [GIVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/GIVE)
 * **[NEXT UPDATE]** [KILL](https://github.com/Thundermaker300/ScriptedEvents/wiki/KILL)
+* **[NEXT UPDATE]** [LIGHTCOLOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/LIGHTCOLOR)
 * [LIGHTSOFF](https://github.com/Thundermaker300/ScriptedEvents/wiki/LIGHTSOFF)
 * [ROUNDLOCK](https://github.com/Thundermaker300/ScriptedEvents/wiki/ROUNDLOCK)
 * [SETROLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SETROLE)
