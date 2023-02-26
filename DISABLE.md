@@ -1,6 +1,3 @@
-**Not available yet.**
-***
-
 The `DISABLE` action grants round control in a script.
 
 ## Usage
