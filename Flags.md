@@ -10,5 +10,8 @@ The `!-- DISABLE` flag disables the script entirely. Scripts with this flag can 
 ## Debug
 The `!-- DEBUG` flag enables debug logs for the script it is defined in. Note: In order for this flag to do anything, the plugin's "debug" config (in your {port}-config.yml file) must be set to `true`!
 
+## Help Command Reponse
+The `!-- HELPCOMMANDRESPONSE` flag is added automatically to files generated via the `HELP <INPUT> FILE` action. This flag makes a file completely undetectable by the plugin.
+
 ## Suppress Warnings
 The `!-- SUPPRESSWARNINGS` flag disables all non-fatal warnings from command execution.
