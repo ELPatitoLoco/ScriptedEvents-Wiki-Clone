@@ -70,3 +70,5 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 
 ## Internal Actions
 * [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
+
+TODO: Add REMOVEITEM and CLEARINVENTORY action pages
