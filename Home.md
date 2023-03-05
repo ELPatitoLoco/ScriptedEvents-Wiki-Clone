@@ -14,6 +14,8 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables)
 * __[ADVANCED]__ [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables)
 
+### Notice: Pages for actions are obsolete and will be discontinued soon. Use the `shelp` command *in the server console* (versions >2.1.1) for detailed auto-generated action documentation
+
 ## Event Actions
 * [BROADCAST](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCAST)
 * [BROADCASTPLAYER](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCASTPLAYER)
