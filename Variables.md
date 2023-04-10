@@ -4,6 +4,8 @@ Variables must be surrounded with curly braces (eg. `{CHANCE}`) in order to work
 
 Variables can be paired with [conditions](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions) very well; however, they can also be used in standalone math equations.
 
+Certain scripts may have special variables that are only available in certain cases. See [this page](https://github.com/Thundermaker300/ScriptedEvents/wiki/Per-Script-Variables) for more info.
+
 ## Variables
 ### Numerical variables
 #### Chance
