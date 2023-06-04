@@ -25,6 +25,7 @@ Certain scripts may have special variables that are only available in certain ca
 * `TICK` - Amount of seconds that have passed since Jan 1st, 1970 (epoch).
 
 #### Zone
+* Each individual RoomType can be used as a variable to count the amount of players in the room. [All RoomTypes here](https://exiled-team.github.io/EXILED/api/Exiled.API.Enums.RoomType.html).
 * `LCZ` - Every player in Light Containment Zone.
 * `HCZ` - Every player in Heavy Containment Zone.
 * `EZ` - Every player in Entrance Zone.
@@ -104,6 +105,7 @@ These variables __CANNOT__ be used in normal commands, and can only be used in p
 * `UIU` - Unusual Incidents Units (always 0 if the plugin is not installed).
 
 #### Zone
+* Each individual RoomType can be used as a variable to get the players in the room. [All RoomTypes here](https://exiled-team.github.io/EXILED/api/Exiled.API.Enums.RoomType.html).
 * `LCZ` - Every player in Light Containment Zone.
 * `HCZ` - Every player in Heavy Containment Zone.
 * `EZ` - Every player in Entrance Zone.
