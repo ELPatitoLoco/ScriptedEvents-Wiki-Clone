@@ -64,6 +64,8 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [SAVEPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEPLAYERVARIABLE)
 
 ## Yield Actions
+
+* [WAITMIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITMIL)
 * [WAITSEC](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITSEC)
 * [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL)
 
