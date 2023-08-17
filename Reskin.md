@@ -11,4 +11,4 @@ Sets the targeted players' look to the given role.
 The players to change the looks of roles of. [Player variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables#player-variables) can be used here.
 
 ### ROLETYPE
-The role type to set. Valid RoleTypes can be found in the Exiled resources channel.
+The role type to set. Valid RoleTypes can be found in the [Exiled resources](https://exiled-team.github.io/Web/docs/Resources/Intro/#roletype-team-side-and-faction)
