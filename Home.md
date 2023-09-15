@@ -1,4 +1,4 @@
-# THIS WIKI IS OBSOLETE, ALL DOCUMENTATION SHOULD BE ACCESSED BY THE `SHELP` COMMAND IN THE SERVER CONSOLE
+# THIS WIKI IS OBSOLETE, ALL DOCUMENTATION IS NOW ACCESSED BY THE SERVER COMMAND `SHELP` 
 
 
 # ScriptedEvents Wiki
@@ -7,8 +7,6 @@ Welcome to the ScriptedEvents wiki! This wiki covers every action and every feat
 ScriptedEvents has two main uses:
 * Automation - Enables your server to have unique, per-round events, such as custom blackouts, custom automatic warhead, etc. You can make what you can think of!
 * Semi-automated events - Enables your server to have unique admin events, such as a "hide and seek" game where you can define the rules!
-
-It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if your script is executed as an admin event. This enables compatibility with CedMod's panel (Exiled version), as well as preventing the script from running automatically. See [this page](https://github.com/Thundermaker300/ScriptedEvents/wiki/Flags) for more information
 
 ## Informational Pages
 * **[Information & Syntax](https://github.com/Thundermaker300/ScriptedEvents/wiki/Information-&-Syntax)**
@@ -43,7 +41,7 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [TPROOM](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPROOM)
 * [TPX](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPX)
 * [WARHEAD](https://github.com/Thundermaker300/ScriptedEvents/wiki/WARHEAD)
-* **[NEW]**[RESKIN](https://github.com/Thundermaker300/ScriptedEvents/wiki/Reskin)
+* [RESKIN](https://github.com/Thundermaker300/ScriptedEvents/wiki/Reskin)
 
 ## Logic Actions
 * [IF](https://github.com/Thundermaker300/ScriptedEvents/wiki/IF)
@@ -53,8 +51,8 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 * [GOTOIF](https://github.com/Thundermaker300/ScriptedEvents/wiki/GOTOIF)
 
 ## Round-Rules Actions
-* **[NEW]** [DISABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DISABLE)
-* **[NEW]** [ENABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/ENABLE)
+* [DISABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DISABLE)
+* [ENABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/ENABLE)
 * [INFECTRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/INFECTRULE)
 * [SPAWNRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SPAWNRULE)
 
@@ -76,5 +74,3 @@ It is highly encouraged to add `!-- ADMINEVENT` at the top of your script if you
 
 ## Internal Actions
 * [NULL](https://github.com/Thundermaker300/ScriptedEvents/wiki/NULL)
-
-TODO: Add REMOVEITEM and CLEARINVENTORY action pages
