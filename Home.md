@@ -27,6 +27,8 @@ ScriptedEvents has two main uses:
 * [DOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/DOOR)
 * [EXECUTESCRIPT](https://github.com/Thundermaker300/ScriptedEvents/wiki/EXECUTESCRIPT)
 * [GIVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/GIVE)
+* [REMOVEITEM](https://github.com/Thundermaker300/ScriptedEvents/wiki/REMOVEITEM)
+* [CLEARINVENTORY](https://github.com/Thundermaker300/ScriptedEvents/wiki/CLEARINVENTORY)
 * [KILL](https://github.com/Thundermaker300/ScriptedEvents/wiki/KILL)
 * [LIGHTCOLOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/LIGHTCOLOR)
 * [LIGHTSOFF](https://github.com/Thundermaker300/ScriptedEvents/wiki/LIGHTSOFF)
