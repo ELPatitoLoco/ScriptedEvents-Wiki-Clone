@@ -61,6 +61,7 @@ ScriptedEvents has two main uses:
 * [DISABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DISABLE)
 * [ENABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/ENABLE)
 * [INFECTRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/INFECTRULE)
+* [DELINFECTRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELINFECTRULE)
 * [SPAWNRULE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SPAWNRULE)
 
 ## Variable Actions
