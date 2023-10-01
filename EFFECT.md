@@ -21,4 +21,4 @@ The effect to give or remove. Effect type can be found here: [EXILED Effect Type
 The intensity of the effect, between 0-255. Variables are supported. Defaults is Intensity 1.
 
 ### Duration
-The duration of the effect, or put no duration here and make permanent effect. Variables can be used.
+The duration of the effect, or put no duration here and make permanent effect. [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables) can be used.  
