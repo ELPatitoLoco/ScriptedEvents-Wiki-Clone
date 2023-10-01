@@ -1,8 +1,8 @@
-The `SAVEPLAYERVARIABLE` action grants variable control in a script. See [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables) for more information.
+The `SAVEPLAYERS` action grants variable control in a script. See [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables) for more information.
 
 ## Usage
 ```
-SAVEPLAYERVARIABLE <VARIABLENAME> <CURRENTVARIABLE> [MAX]
+SAVEPLAYERS <VARIABLENAME> <CURRENTVARIABLE> [MAX]
 ```
 Saves a new player variable by using a current variable. The new variable will not be changed at all until it is re-defined or removed. An optional maximum can be provided to set the maximum amount of players, random.
 
