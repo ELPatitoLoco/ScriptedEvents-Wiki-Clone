@@ -42,6 +42,7 @@ ScriptedEvents has two main uses:
 * [TICKET](https://github.com/Thundermaker300/ScriptedEvents/wiki/TICKET)
 * [TPROOM](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPROOM)
 * [TPX](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPX)
+* [TPDOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPDOOR)
 * [WARHEAD](https://github.com/Thundermaker300/ScriptedEvents/wiki/WARHEAD)
 * [RESKIN](https://github.com/Thundermaker300/ScriptedEvents/wiki/Reskin)
 
