@@ -1,8 +1,8 @@
-The `SAVEVARIABLE` action grants variable control in a script. See [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables) for more information.
+The `SAVE` action grants variable control in a script. See [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables) for more information.
 
 ## Usage
 ```
-SAVEVARIABLE <VARIABLENAME> <VALUE>
+SAVE <VARIABLENAME> <VALUE>
 ```
 Saves a new variable. The new variable will not be changed at all until it is re-defined or removed.
 
