@@ -9,7 +9,7 @@ Action for giving/removing player effects.
 ## Arguments
 
 ### Mode
-Option to give or remove permanent effect.
+Option to GIVE or REMOVE effect.
 
 ### Target
 The players to give the item to. [Player variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables#player-variables) can be used here.
