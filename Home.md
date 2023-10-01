@@ -40,9 +40,9 @@ ScriptedEvents has two main uses:
 * [START](https://github.com/Thundermaker300/ScriptedEvents/wiki/START)
 * [TESLA](https://github.com/Thundermaker300/ScriptedEvents/wiki/TESLA)
 * [TICKET](https://github.com/Thundermaker300/ScriptedEvents/wiki/TICKET)
+* [TPDOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPDOOR)
 * [TPROOM](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPROOM)
 * [TPX](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPX)
-* [TPDOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/TPDOOR)
 * [WARHEAD](https://github.com/Thundermaker300/ScriptedEvents/wiki/WARHEAD)
 * [RESKIN](https://github.com/Thundermaker300/ScriptedEvents/wiki/Reskin)
 
