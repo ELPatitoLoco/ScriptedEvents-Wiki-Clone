@@ -18,6 +18,7 @@ ScriptedEvents has two main uses:
 ## Event Actions
 * [BROADCAST](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCAST)
 * [BROADCASTPLAYER](https://github.com/Thundermaker300/ScriptedEvents/wiki/BROADCASTPLAYER)
+* [HINT](https://github.com/Thundermaker300/ScriptedEvents/wiki/HINT)
 * [CASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/CASSIE)
 * [CLEARCASSIE](https://github.com/Thundermaker300/ScriptedEvents/wiki/CLEARCASSIE)
 * [COMMAND](https://github.com/Thundermaker300/ScriptedEvents/wiki/COMMAND)
