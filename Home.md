@@ -66,7 +66,7 @@ ScriptedEvents has two main uses:
 ## Variable Actions
 * [DELVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELVARIABLE)
 * [DELPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELPLAYERVARIABLE)
-* [SAVEVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEVARIABLE)
+* [SAVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVE)
 * [SAVEPLAYERS](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEPLAYERS)
 
 ## Yield Actions
