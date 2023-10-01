@@ -26,6 +26,7 @@ ScriptedEvents has two main uses:
 * [DECONTAMINATE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DECONTAMINATE)
 * [DOOR](https://github.com/Thundermaker300/ScriptedEvents/wiki/DOOR)
 * [EXECUTESCRIPT](https://github.com/Thundermaker300/ScriptedEvents/wiki/EXECUTESCRIPT)
+* [EFFECTPERM](https://github.com/Thundermaker300/ScriptedEvents/wiki/EFFECTPERM)
 * [GIVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/GIVE)
 * [REMOVEITEM](https://github.com/Thundermaker300/ScriptedEvents/wiki/REMOVEITEM)
 * [CLEARINVENTORY](https://github.com/Thundermaker300/ScriptedEvents/wiki/CLEARINVENTORY)
