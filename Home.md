@@ -69,9 +69,9 @@ ScriptedEvents has two main uses:
 * [DELPLAYERVARIABLE](https://github.com/Thundermaker300/ScriptedEvents/wiki/DELPLAYERVARIABLE)
 * [SAVE](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVE)
 * [SAVEPLAYERS](https://github.com/Thundermaker300/ScriptedEvents/wiki/SAVEPLAYERS)
+* [PLAYERVAR](https://github.com/Thundermaker300/ScriptedEvents/wiki/PLAYERVAR)
 
 ## Yield Actions
-
 * [WAITMIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITMIL)
 * [WAITSEC](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITSEC)
 * [WAITUNTIL](https://github.com/Thundermaker300/ScriptedEvents/wiki/WAITUNTIL)
