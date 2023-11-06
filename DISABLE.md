@@ -37,8 +37,9 @@ Beginning in Version 2.5.0, the following keys can be used to disable SCP relate
 * `SCP049RECALL`
 * `SCP049CALL`
 #### SCP-049-2
-* `SCP0492CONSUMECORPSE`
+* `SCP0492ATTACK`
 * `SCP0492BLOODLUST`
+* `SCP0492CONSUMECORPSE`
 #### SCP-079
 * `SCP079CHANGECAMERA` - Disabled until Exiled issue is fixed
 * `SCP079SPEAKER`
@@ -53,6 +54,7 @@ Beginning in Version 2.5.0, the following keys can be used to disable SCP relate
 * `SCP079ZONEBLACKOUT`
 #### SCP-096
 * `SCP096ADDTARGET`
+* `SCP096ATTACK`
 * `SCP096CHARGE`
 * `SCP096ENRAGE`
 * `SCP096TRYNOTCRY`
@@ -61,14 +63,17 @@ Beginning in Version 2.5.0, the following keys can be used to disable SCP relate
 * `SCP106ATLAS`
 * `SCP106STALK`
 #### SCP-173
+* `SCP173ATTACK`
 * `SCP173BLINK`
 * `SCP173BREAKNECKSPEED` - Doesn't work at the moment
 * `SCP173TANTRUM`
 #### SCP-939
-* `SCP939FOCUS`
+* `SCP939ATTACK`
 * `SCP939CLOUD`
+* `SCP939FOCUS`
 * `SCP939PLAYSOUND`
 * `SCP939PLAYVOICE`
 * `SCP939SAVEVOICE`
 #### SCP-3114
+* `SCP3114ATTACK`
 * `SCP3114DISGUISE` - Broken due to an Exiled bug
