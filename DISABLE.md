@@ -71,4 +71,4 @@ Beginning in Version 2.5.0, the following keys can be used to disable SCP relate
 * `SCP939PLAYVOICE`
 * `SCP939SAVEVOICE`
 #### SCP-3114
-* `SCP3114DISGUISE`
+* `SCP3114DISGUISE` - Broken due to an Exiled bug
