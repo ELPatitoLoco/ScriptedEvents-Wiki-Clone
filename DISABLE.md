@@ -59,7 +59,7 @@ Beginning in Version 2.5.0, the following keys can be used to disable SCP relate
 #### SCP-106
 * `SCP106ATTACK`
 * `SCP106ATLAS`
-* `SCP106STALK
+* `SCP106STALK`
 #### SCP-173
 * `SCP173BLINK`
 * `SCP173BREAKNECKSPEED` - Doesn't work at the moment
