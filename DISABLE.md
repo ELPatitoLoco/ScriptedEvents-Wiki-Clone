@@ -31,6 +31,9 @@ The Key argument determines what in-game feature is disabled.
 
 ### SCP Ability Keys
 Beginning in Version 2.5.0, the following keys can be used to disable SCP related actions.
+#### General SCPs
+* `SCPATTACK` - Disables all SCP attacks.
+
 #### SCP-049
 * `SCP049SENSE`
 * `SCP049ATTACK`
