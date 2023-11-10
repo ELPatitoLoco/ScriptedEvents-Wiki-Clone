@@ -11,6 +11,7 @@ Standard variables are variables which hold a single value, such as a message, n
 * Built-In Variables - Variables that are defined by the plugin. These variables cannot be changed/erased/etc, and hold a value that can regularly change. These variables can be used in any script.
 * Per-Script Variables - Variables that are defined by the plugin, but only in special cases. These variables are only available in the script that they are defined for.
 * Custom Variables - Variables defined by the server host, via a script with the `SAVE` action. Custom variables can be used in any script, even outside of the script they were defined in. Custom variables reset each round.
+
 Some of these variables are also player variables. This means that they also consist of a list of players, and can be used in player-related actions that take a player variable, such as `SETROLE` and `SIZE`.
 
 Custom player variables can be created through the `PLAYERVAR` action. The created variable also holds a value representing the amount of players in the variable, and as such can be used in actions like `BROADCAST` as well as player-related actions. These variables can also be used in any script.
