@@ -14,6 +14,7 @@ ScriptedEvents has two main uses:
 * [Conditions](https://github.com/Thundermaker300/ScriptedEvents/wiki/Conditions)
 * [Flags](https://github.com/Thundermaker300/ScriptedEvents/wiki/Flags)
 * [Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Variables)
+* [Custom Commands](https://github.com/Thundermaker300/ScriptedEvents/wiki/Custom-Commands)
 * __[ADVANCED]__ [Saving Variables](https://github.com/Thundermaker300/ScriptedEvents/wiki/Saving-Variables)
 
 ## Event Actions
