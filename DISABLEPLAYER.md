@@ -1,4 +1,4 @@
-The `DISABLE` action grants player interaction round control in a script.
+The `DISABLEPLAYER` action grants player interaction round control in a script.
 
 ## Usage
 ```
