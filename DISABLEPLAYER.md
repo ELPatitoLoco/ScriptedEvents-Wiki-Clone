@@ -1,4 +1,4 @@
-The `DISABLE` action grants round control in a script.
+The `DISABLE` action grants player interaction round control in a script.
 
 ## Usage
 ```
