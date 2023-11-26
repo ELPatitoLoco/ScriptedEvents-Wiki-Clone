@@ -4,7 +4,7 @@ The `DISABLEPLAYER` action grants player interaction round control in a script.
 ```
 DISABLEPLAYER <PLAYERS> <KEY>
 ```
-Disables a certain in-game feature for selected players unitl the round ended. (Can be later enblaed by ENABLEPLAYER action)
+Disables a certain in-game feature for selected players unitl the round ended. (Can be later enablad by ENABLEPLAYER action)
 
 ## Arguments
 ### Players
